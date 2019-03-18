@@ -18,8 +18,6 @@ tags:
   - Home Seller Tips
 ---
 
-&nbsp;
-
 Our market remains busy, and it’s still an opportune time to command a high price selling your home. &nbsp;
 
 I know what’s happening in Las Vegas, specifically pertaining to home values, that will directly affect you.
