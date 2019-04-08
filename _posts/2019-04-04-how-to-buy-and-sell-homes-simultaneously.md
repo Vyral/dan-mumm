@@ -19,7 +19,7 @@ youtube_code: bCozA7k98do
 
 {% include youtube.html %}
 
-Most home sellers are also homebuyers. **When it comes to buying a house and selling a house at the same time, the first thing you need to do is speak with your lender.** A lot of times, people will put their home on the market without realizing that they can’t qualify for another loan or maybe they have some credit issues that they weren’t aware of.
+By default, most home sellers inevitably become homebuyers. **When it comes to buying a house and selling a house at the same time, the first thing you need to do is speak with your lender.** A lot of times, people will put their home on the market without realizing that they can’t qualify for another loan or maybe they have some credit issues that they weren’t aware of.
 
 **There are really two ways to go about this.** You can either buy a new house before you sell your current one, or you could sell your house and try to find another one at the same time.
 
