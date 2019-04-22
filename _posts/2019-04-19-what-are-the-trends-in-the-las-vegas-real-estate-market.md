@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Key Developments Are Dominating Our Market Right Now?
+title: What Are the Trends in the Las Vegas Real Estate Market?
 date: 2019-04-19 14:21:00
 tags:
   - Market Update
