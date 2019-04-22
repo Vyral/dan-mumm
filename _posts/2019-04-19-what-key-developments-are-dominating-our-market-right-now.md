@@ -23,11 +23,11 @@ youtube_code: gqbcJRmphqc
 
 With March in the books and April continuing along, it’s time for an update on our Las Vegas market.
 
-From the end of 2018 to the start of this year, our market settled into a slowdown that raised some concerns among many. Questions swirled around the economy, in general, and interest rates, there was little buyer activity, and inventory grew.
+From the end of 2018 to the start of this year, our market settled into a slowdown that raised some concerns among many. Questions swirled around the economy and interest rates, there was little buyer activity, and inventory grew.
 
 This past March, some interesting developments came about in the market. **Inventory shot up from 3,300 to 4,100 listings year over year—a 29% increase** that, on its own, might seem like cause for concern. To make matters more interesting, though, buyer activity increased as well, and this served to offset some of those new listings coming onto the market.
 
-Mirroring our inventory rise, **our total number of closed transactions also hit a 29% jump going from 2,400 to 3,100.**
+Mirroring our inventory rise, **our total number of closed transactions also hit a 29% jump, going from 2,400 to 3,100.**
 
 {% include pullquote.html %}
 
