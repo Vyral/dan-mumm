@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Key Developments Are Dominating Our Market Right Now?
-date: 2019-04-19 14:21:30
+date: 2019-04-19 14:21:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dan-mumm--ssaprilmu-email.jpg
-youtube_code: 0l_ASIyMF04
+youtube_code: gqbcJRmphqc
 ---
 
 {% include youtube.html %}
