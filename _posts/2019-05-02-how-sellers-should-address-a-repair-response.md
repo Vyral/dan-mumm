@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Sellers Should Address a Repair Response
-date: 2019-05-02 20:58:31
+date: 2019-05-02 20:58:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/rr-email.jpg
-youtube_code: AAPBTbFkISU
+youtube_code: owr8044uaOk
 ---
 
 {% include youtube.html %}
