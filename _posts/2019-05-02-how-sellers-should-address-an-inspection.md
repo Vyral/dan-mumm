@@ -8,7 +8,7 @@ excerpt: >-
   There are a few things to keep in mind when dealing with repair responses.
   Here’s what to do.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dan+Mumm/How+Sellers+Should+Address+a+Repair+Response.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dan+Mumm/How+Sellers+Should+Address+an+Inspection.mp4
 pullquote: >-
   A repair response is the first step taken after a buyer and seller agree on a
   price and go under contract.
