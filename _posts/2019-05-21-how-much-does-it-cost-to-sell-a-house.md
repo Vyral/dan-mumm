@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Does It Cost to Sell a House?
-date: 2019-05-21 14:49:30
+date: 2019-05-21 14:49:00
 tags:
   - Home Seller Tips
 excerpt: >-
