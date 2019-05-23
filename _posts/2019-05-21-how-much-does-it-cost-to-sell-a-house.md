@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/home-selling-costs-you-need-to-know-yt.jpg
-youtube_code: MYGXouAl9_s
+youtube_code: tQwy5A_Abpo
 ---
 
 {% include youtube.html %}
 
-Today we’re answering the most common question that I get as a Realtor: **How much does it actually cost to sell a house?** Most Realtors assume people already know the answer, but a lot of people don’t because they’ve never sold a house before.&nbsp;
+People often ask us how much it costs to sell a home. Most Realtors assume people already know the answer, but a lot of people don’t because they’ve never sold a house before.&nbsp;
 
 **It doesn’t really cost you anything up front to sell your home.** The costs you incur are paid at closing and are typically removed from whatever amount the home sells for. The only fees that you might have to pay include repair fees or to order HOA rules and regulations. Other than that, the rest of the costs happen at closing after you’ve sold.
 
@@ -27,10 +27,10 @@ The main home selling cost is your commission. **This can range anywhere from 5%
 
 {% include pullquote.html %}
 
-Different agents charge different commission rates, but some include different services with that commission. For example, I can pay for staging for my clients, as well as a notary, with my commission. Some agents charge a low commission, but charge higher broker fees or administrative fees.
+Different agents charge different commission rates, but some include different services with that commission. For example, I can pay for staging for my clients, as well as a notary, with my commission. Some agents charge a low commission but charge higher broker fees or administrative fees.
 
 Your closing costs will probably be around 1% to 1.5% of your sale price and they will cover things such as your title and escrow fees, your title policy, HOA documents, transfer taxes in certain states, and whatever you owe on your mortgage.&nbsp;
 
-**All in all, it typically costs you about 8% of your sale price to sell your home.** If you sell with a company like Opendoor or another ibuyer that will give you an instant offer, you’re going to sell for at least 10% below market value. They’re buying to make a profit, and you won’t typically net the most money this way.
+**All in all, it typically costs you about 8% of your sale price to sell your home.** If you sell with a company like Opendoor or another iBuyer that will give you an instant offer, you’re going to sell for at least 10% below market value. They’re buying to make a profit, and you won’t typically net the most money this way.
 
 If you have any questions about buying or selling a home or anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
