@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Current Market Conditions Mean for you
+title: What Current Market Conditions Mean for You
 date: 2019-06-06 00:00:00
 tags:
   - Market Update
