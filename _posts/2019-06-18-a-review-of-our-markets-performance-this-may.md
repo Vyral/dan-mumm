@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Review of Our Market’s Performance This May
-date: 2019-06-18 16:33:19
+date: 2019-06-18 16:33:00
 tags:
   - Market Update
 excerpt: >-
