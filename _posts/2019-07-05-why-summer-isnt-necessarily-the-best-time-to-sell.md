@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Summer Isn’t Necessarily the Best Time to Sell
-date: 2019-07-05 14:03:48
+date: 2019-07-05 14:03:00
 tags:
   - Home Seller Tips
 excerpt: 'Is summertime the best time to sell? Actually, no—here’s why.'
