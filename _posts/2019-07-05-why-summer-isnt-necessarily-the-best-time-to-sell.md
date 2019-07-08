@@ -25,7 +25,7 @@ A big reason people assume this is the case is that here in Las Vegas, the numbe
 
 However, **when you look at the big picture and take all the key statistics into account, they tell a different story.&nbsp;**
 
-For example, over the past 10 years, the average price per square foot hasn’t change much from season to season. Also, the number of people trying to sell versus those who are trying to by, which we measure by the amount of inventory, hasn’t changed from season to season either during this time span. Although fewer people move during the winter months, the overall balance between buyers and sellers doesn’t change.&nbsp;
+For example, over the past 10 years, the average price per square foot hasn’t changed much from season to season. Also, the number of people trying to sell versus those who are trying to buy, which we measure by the amount of inventory, hasn’t changed from season to season either during this time span. Although fewer people move during the winter months, the overall balance between buyers and sellers doesn’t change.&nbsp;
 
 {% include pullquote.html %}
 
