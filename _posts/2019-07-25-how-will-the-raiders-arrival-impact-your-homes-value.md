@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the Raiders’ Arrival Impact Your Home’s Value?
-date: 2019-07-25 14:37:44
+date: 2019-07-25 14:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
