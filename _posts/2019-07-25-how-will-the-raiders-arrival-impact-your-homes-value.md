@@ -28,7 +28,7 @@ First of all, the jobs that were created to build their new stadium are mostly t
 
 Second, we’ve already experienced most of the home appreciation caused by their relocation since it was announced a couple years ago. It’s not as if the economy is waiting to explode after kickoff during the first game. A big part of real estate investing revolves around speculation, and when there’s a big news item like that announced, that’s when you see that increase in demand.&nbsp;
 
-Why is our Las Vegas market doing so well if it’s not because of the Raiders, then? **There are a few key factors driving our economy that have a far greater impact.**
+Why is our Las Vegas market doing so well if it’s not because of the Raiders, then? **A few key factors are driving our economy that have a far greater impact.**
 
 {% include pullquote.html %}
 
