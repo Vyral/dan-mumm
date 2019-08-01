@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The arrival of the Las Vegas Raiders won’t double your home’s value, but it’s
   still beneficial to our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Mumm/How+Will+the+Raiders+Arrival+Impact+Your+Homes+Value_.mp4
 pullquote: >-
   We’ve already experienced most of the home appreciation caused by their
   relocation since it was announced a couple years ago.
