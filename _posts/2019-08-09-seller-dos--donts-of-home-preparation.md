@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seller Do’s & Don’ts of Home Preparation
-date: 2019-08-09 19:32:04
+date: 2019-08-09 19:32:00
 tags:
   - Home Seller Tips
 excerpt: >-
