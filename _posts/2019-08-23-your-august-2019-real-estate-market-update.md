@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your August 2019 Real Estate Market Update
-date: 2019-08-23 15:15:59
+date: 2019-08-23 15:15:00
 tags:
   - Market Update
 excerpt: >-
