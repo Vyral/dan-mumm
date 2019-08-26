@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-22---dan-mumm---youtube.jpg
-youtube_code: 'https://youtu.be/5smSwNiznQI'
+youtube_code: z6B8hUwkPW0
 ---
 
 {% include youtube.html %}
@@ -31,7 +31,7 @@ I think the reason is because Las Vegas had a very unusual market for the last f
 
 {% include pullquote.html %}
 
-**Ultimately, there’s no real cause for concern.** Another important thing to note is that interest rates are very, very low right now: everyone with a mortgage should consider refinancing to lock in a low rate. I just did it myself, in fact.
+**Ultimately, there’s no real cause for concern.** Another important thing to note is that interest rates are very, very low right now: Everyone with a mortgage should consider refinancing to lock in a low rate. I just did it myself, in fact.
 
 As a final note, understand that **a home’s condition is becoming increasingly significant to buyers.** Two or three years ago, if a property was priced correctly, its condition wasn’t too important. Today, however, even lower-priced properties need to be in good condition to sell quickly. Buyers are having a tough time seeing past a home that doesn’t look its best, so it’s beneficial for sellers to consider staging, recarpeting, and adding a fresh coat of paint before they put it on the market.
 
