@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here’s your latest update on the August 2019 real estate market. See the
   latest trends here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Mumm/Your+August+2019+Real+Estate+Market+Update.mp4
 pullquote: 'Overall, ours is just a good, balanced, and healthy market.'
 enclosure_type: video/mp4
 enclosure_time:
