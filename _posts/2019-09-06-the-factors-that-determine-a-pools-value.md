@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Factors That Determine a Pool’s Value
-date: 2019-09-06 13:45:44
+date: 2019-09-06 13:45:00
 tags:
   - Real Estate
 excerpt: How much value does a pool add to your home? Find out today.
