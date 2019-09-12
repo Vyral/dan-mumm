@@ -5,7 +5,8 @@ date: 2019-09-06 13:45:00
 tags:
   - Real Estate
 excerpt: How much value does a pool add to your home? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Mumm/The+Factors+That+Determine+a+Pools+Value.mp4
 pullquote: >-
   If the pool equipment is just stuck somewhere in the backyard, clearly
   visible, that’s a good way to tell that it’s not well done.
