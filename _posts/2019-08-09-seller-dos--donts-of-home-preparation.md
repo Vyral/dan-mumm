@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What things should you do—and not do—when it comes to listing your home for
   sale? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Mumm/Seller+Dos+%26+Donts+of+Home+Preparation.mp4
 pullquote: >-
   In a strong seller’s market, you don’t really need to do much; if there’s
   little inventory and no competition, you could price your home reasonably and
