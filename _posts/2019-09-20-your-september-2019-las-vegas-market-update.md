@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your September 2019 Las Vegas Market Update
-date: 2019-09-20 20:45:04
+date: 2019-09-20 20:45:00
 tags:
   - Market Update
 excerpt: >-
