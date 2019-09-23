@@ -28,7 +28,7 @@ The number of new listings coming on the market has remained relatively unchange
 
 {% include pullquote.html %}
 
-Days on market is another area where we’re we’ve seen a bit of a change recently. **This month, the average Las Vegas home is spending 46 days on the market, compared to just 40 or 41 days in the last couple of months.** And actually, that slight bump in time on market is present across all price points right now. If you’re a seller, take note that despite the fact that prices haven’t increased (which I’ll touch on in a moment), days on market have, so it might take a little longer to sell your home at the moment. &nbsp; &nbsp;&nbsp;
+Days on market is another area where we’re we’ve seen a bit of a change recently. **This month, the average Las Vegas home is spending 46 days on the market, compared to just 40 or 41 days in the last couple of months.** And actually, that slight bump is present across all price points right now. If you’re a seller, take note that despite the fact that prices haven’t increased (which I’ll touch on in a moment), days on market have, so it might take a little longer to sell your home at the moment. &nbsp; &nbsp;&nbsp;
 
 Let’s turn our attention to home prices, which, as I mentioned, have stayed pretty level over the last few months. In July, prices were right around $321,000, before rising to $326,000 the next month and coming down to $321,000 again this month.&nbsp;
 
