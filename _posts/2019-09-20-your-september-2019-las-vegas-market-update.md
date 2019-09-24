@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today we’ll take a quick glance at our September market stats. What’s changed
   recently? What hasn’t? Stay tuned to find out!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Mumm/Your+September+2019+Las+Vegas+Market+Update.mp4
 pullquote: >-
   This month, the average Las Vegas home is spending 46 days on the market,
   compared to just 40 or 41 days in the last couple of months.
