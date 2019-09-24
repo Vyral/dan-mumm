@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/9-20---dan-mumm---youtube.jpg
-youtube_code: 'https://youtu.be/CQohwUGL6gQ'
+youtube_code: jyIcbYjGFdY
 ---
 
 {% include youtube.html %}
