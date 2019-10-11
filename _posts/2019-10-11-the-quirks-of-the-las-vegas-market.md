@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/KjOKv26P508'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are several ways our Las Vegas market differs from other markets.</em></p>
+
 Whether you’re looking to move to Las Vegas from out of state or you’re a current resident looking to sell your home, our market is different from other real estate markets in several ways that you should take note of.&nbsp;
 
 First of all, **the percentage of owner-occupied homes is very low compared to other areas.** There are a lot of vacation homeowners and investors who own properties in our market, which means a lot more rental homes and vacant homes dotting the landscape.&nbsp;
