@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Quirks of the Las Vegas Market
-date: 2019-10-11 15:07:42
+date: 2019-10-11 15:07:00
 tags:
   - Market Update
 excerpt: There are several ways our Las Vegas market differs from other markets.
