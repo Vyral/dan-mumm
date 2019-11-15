@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes Winter a Great Time to List?
-date: 2019-11-15 15:57:51
+date: 2019-11-15 15:57:00
 tags:
   - Home Seller Tips
 excerpt: The holidays are a great time to list and there are four main reasons why.
