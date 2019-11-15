@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/XpWXj15wSME'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>The holidays are a great time to list and there are four main reasons why.</em></p>
+
 Contrary to what you might have heard, winter is actually a great time to put your home up for sale. Many assume that waiting until after the holidays will work to their advantage, but **there are four reasons that selling during the winter months instead can be the better option:&nbsp;**
 
 **1\. Supply is low and demand is high.** Because so many people fall for the myth our market is inactive over the winter, few sellers actually make the move to list their home. This means those who do have the unique opportunity to stand out above the crowd and enjoy the higher demand that comes along with the seasonally depleted supply. Waiting until spring, however, will only leave sellers pitted against a much higher level of competition.&nbsp;
