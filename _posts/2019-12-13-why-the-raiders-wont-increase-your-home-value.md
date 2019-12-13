@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why the Raiders Won’t Increase Your Home Value
-date: 2019-12-13 21:06:05
+date: 2019-12-13 21:06:00
 tags:
   - Home Seller Tips
 excerpt: >-
