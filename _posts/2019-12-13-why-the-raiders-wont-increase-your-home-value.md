@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/kbMGfdJeH9A'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>The main reason why the Raiders won’t affect home values in 2020 is because they’ve already left their mark on real estate.</em></p>
+
 A few months ago, I sent out a video about the incoming Las Vegas Raiders NFL football team and its impact on the housing market here. I got great responses—some folks agreeing with me, others not so much—so I decided to do another video about what everyone seems to be discussing.
 
 I’ve been getting this question a lot: “**Are the Raiders going to increase the value of my home?**” I wanted to take some time to explain why, in reality, it probably won’t happen that way.&nbsp;
