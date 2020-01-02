@@ -13,13 +13,13 @@ pullquote: 'Some people should buy a house, others shouldn’t.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/dan-mumm-what-other-realtors-wont-admit-to-you-youtube.jpg
+youtube_alternate_image: /uploads/1-2---dan-mumm---yt.jpg
 youtube_code: 'https://youtu.be/1ZYbCLKtw6w'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Believe it or not, I’m here to share four good reasons a person may have for not buying a house.</em></p>
+*Believe it or not, I’m here to share four good reasons a person may have for not buying a house.*
 
 Today I want to talk to you about why not to buy a house. And before you ask, no, folks, I promise I haven’t gone totally crazy; there’s a perfectly logical reason why I, a Realtor, would talk to you about reasons not to buy a house.&nbsp;
 
