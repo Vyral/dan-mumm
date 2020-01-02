@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/1ZYbCLKtw6w'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Believe it or not, I’m here to share four good reasons a person may have for not buying a house.</em></p>
+
 Today I want to talk to you about why not to buy a house. And before you ask, no, folks, I promise I haven’t gone totally crazy; there’s a perfectly logical reason why I, a Realtor, would talk to you about reasons not to buy a house.&nbsp;
 
 First, I think it’s unhealthy as a businessperson to assume that every single person is a good fit for my product or service. Some people should buy a house, others shouldn’t. My job is to service those who already know that buying a house is the right decision for them—not twist the arm of those who don’t want to buy.&nbsp;
