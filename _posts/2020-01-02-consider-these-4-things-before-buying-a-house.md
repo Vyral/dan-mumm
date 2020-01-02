@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/1ZYbCLKtw6w'
 
 {% include youtube.html %}
 
-*Believe it or not, I’m here to share four good reasons a person may have for not buying a house.*
+<p style="text-align: center;"><em>Believe it or not, I’m here to share four good reasons a person may have for not buying a house.</em></p>
 
 Today I want to talk to you about why not to buy a house. And before you ask, no, folks, I promise I haven’t gone totally crazy; there’s a perfectly logical reason why I, a Realtor, would talk to you about reasons not to buy a house.&nbsp;
 
