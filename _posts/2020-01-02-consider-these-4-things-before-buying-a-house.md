@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consider These 4 Things Before Buying a House
-date: 2020-01-02 16:43:28
+date: 2020-01-02 16:43:00
 tags:
   - Home Buyer Tips
 excerpt: >-
