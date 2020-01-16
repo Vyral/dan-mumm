@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/w16Eb25MYXg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>For the 2020 real estate market, why should we now think of January as the new spring market? Find out today.</em></p>
+
 Why is January now the go-to time for homeowners to list their homes? Usually, there’s a bit of a slowdown in the market over the winter months, but we didn’t really see that over this past holiday season.&nbsp;
 
 The number of homes for sale is a really important metric to look at if you want to understand what’s really going on in the market; **over the last five or six months, the number of homes for sale continuously dropped, and inventory was very low.** This was great news for sellers, who found less competition due to low inventory.&nbsp;
